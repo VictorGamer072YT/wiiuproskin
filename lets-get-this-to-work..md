@@ -57,7 +57,7 @@ Reboot and check if it was set to `en0`
 
 This might be needed for people running USB Wifi dongles, or people that don't have an Ethernet port.  
   
-Download [NullEthernet](https://github.com/VictorGamer072YT/Upload/raw/master/NullEthernet.zip)
+Download [NullEthernet](https://github.com/VictorGamer072YT/Hackintosh-iMessage-FixUp/raw/master/NullEthernet.zip)
 
 After extracting NullEthernet you should see this   
 

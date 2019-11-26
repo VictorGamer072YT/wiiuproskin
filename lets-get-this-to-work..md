@@ -129,7 +129,7 @@ If it says it is valid, you have to generate a new one.
 
 ![Valid serial](.gitbook/assets/screen-shot-2019-09-05-at-1.12.43-pm%20%281%29.png)
 
-## Applying the SMBIOS to your config.plist properly \(CLOVER\)
+## Applying the SMBIOS to your config.plist properly \(**CLOVER**\)
 
 There are quite a few methods to do this
 
@@ -146,13 +146,13 @@ Go to the **SMBIOS** Tab
 
 ![](.gitbook/assets/image%20%285%29.png)
 
-Copy Type to Product Name
+Copy **Type** to **Product Name**
 
-Serial to Serial Number
+**Serial** to **Serial Number**
 
-Board Serial to Board Serial Number
+**Board Serial** to **Board Serial Number**
 
-SmUUID to SmUUID
+**SmUUID** to **SmUUID**
 
 ![](.gitbook/assets/image.png)
 
@@ -160,7 +160,7 @@ That is it for the **SMBIOS** tab, now go to the **RtVariables** tab
 
 ![](.gitbook/assets/image%20%2814%29.png)
 
-Copy BoardSerial to MLB, and set ROM to **UseMacAddr0**
+Copy **BoardSerial** to **MLB**, and set **ROM** to **UseMacAddr0** \(If you are using **NullEthernet**, hit the Generate button a couple of times.\)
 
 ![](.gitbook/assets/image%20%283%29.png)
 
